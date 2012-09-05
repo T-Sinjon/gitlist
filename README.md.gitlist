@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitList: an elegant and modern git repository viewer
 [![Build Status](https://secure.travis-ci.org/klaussilveira/gitlist.png)](http://travis-ci.org/klaussilveira/gitlist)
 
@@ -77,3 +78,9 @@ If you have Composer in your path, things get easier. But you know the drill.
 
 ## Further information
 If you want to know more about customizing GitList, check the [Customization](https://github.com/klaussilveira/gitlist/wiki/Customizing) page on the wiki. Also, if you're having problems with GitList, check the [Troubleshooting](https://github.com/klaussilveira/gitlist/wiki/Troubleshooting) page. Don't forget to report issues and suggest new features! :)
+=======
+gitlist
+=======
+
+excellent git web
+>>>>>>> da12026df092398d4b28c0b186f984ba26e28f51
